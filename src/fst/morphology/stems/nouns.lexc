@@ -3,6 +3,7 @@
 !! Nouns in the Purubora language refer to objects or sets of objects, qualities, states or ideas.
 
 LEXICON Nouns
-noun+N:noun    Cases   ;
+!noun+N:noun    Cases   ;
+ʼâk+N:ʼâk Cases ;
 
 ! vim: set ft=xfst-lexc:

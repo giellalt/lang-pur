@@ -138,10 +138,27 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  @U.Cap.Obl@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
  @U.Cap.Opt@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
+!! Person marking
+@U.PN.SG1@
+@U.PN.SG2@
+@U.PN.SG3@
+@U.PN.PL1@
+@U.PN.PL2@
+@U.PN.PL3@
+
+@R.PN.SG1@
+@R.PN.SG2@
+@R.PN.SG3@
+@R.PN.PL1@
+@R.PN.PL2@
+@R.PN.PL3@
+
+@R.PN@
+
 LEXICON Root
 !! The word forms in Purubora language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
- Nouns       ;
+! Nouns       ; All nouns will have a	preceding choice between prefix	or not, 2025-04-13,rueter
  Verbs       ;
  Adjectives  ;
  Pronouns    ;

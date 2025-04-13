@@ -3,8 +3,10 @@
 !! Prefixes in the Purubora language are attatched to the left of other words.
 
 LEXICON Prefixes
-nounprefix-     Nouns   ;
 verbprefix-     Verbs   ;
 
+! All nouns will have a preceding choice between prefix or not
+@U.PN.SG1@:@U.PN.SG1@o%< Nouns ;!this one gets tagged after
+     Nouns   ;!this one will not be tagged
 
 ! vim: set ft=xfst-lexc:
