@@ -193,6 +193,8 @@ given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
+Person marking
+
 The word forms in Purubora language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
