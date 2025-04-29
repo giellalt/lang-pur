@@ -4,5 +4,10 @@
 
 LEXICON Pronouns
 pronoun    Cases   ;
+õt+Pron+Pers+Sg1:õt # "I/eu" ;
+ʼẽt+v1+Pron+Pers+Sg2:ʼẽt # "you/você|tu" ;
+ʼẽt+v2+Pron+Pers+Sg2:ẽt # "you/você" ;
+ʼet+Pron+Pers+Sg3:ʼet # "he|she/ele|ela" ;
+det+Pron+Pers+Pl2:det "vocês" ;
 
 ! vim: set ft=xfst-lexc:
