@@ -3,7 +3,74 @@
 !! Nouns in the Purubora language refer to objects or sets of objects, qualities, states or ideas.
 
 LEXICON Nouns
-!noun+N:noun    Cases   ;
-ʼâk+N:ʼâk Cases ;
+!noun+N:noun  Cases  ;
+
+abap+N:abap Cases "avô" ;
+ãjʼap+N:ãjʼap Cases "casquinho pequeno, canoa pequena" ;
+âka+N:âka Cases "casa" ;
+ãmãt+N:ãmãt Cases "chuva" ;
+ameko+N:ameko Cases "cachorro" ;
+apa+N:apa Cases "father/pai" ;
+ãpka+N:ãpka Cases "castanha" ;
+arĩaxĩ+N:arĩaxĩ Cases "abelha preta miúda, azulada." ;
+aruaʼ+N:aruaʼ Cases "caracol da água" ;
+ãwâk+N:ãwâk Cases "peixe cachorro" ;
+axã+N:axã Cases "cabeça" ;
+axẽy+N:axẽy Cases "caranguejo" ;
+axi+N:axi Cases "avó" ;
+axiapã+N:axiapã Cases "açaí" ;
+baroro+N:baroro Cases "braços, os dois braços" ;
+be+N:be Cases "caminho" ;
+beʼora+N:beʼora Cases "comida" ;
+bikap+N:bikap Cases "bico" ;
+bujuap+N:bujuap Cases "calor" ;
+harãgbe+N:harãgbe Cases "chapéu" ;
+hobe+N:hobe Cases "abano" ;
+horoa+N:horoa Cases "peixe jiju" ;
+hywa+N:hywa Cases "banana" ;
+iapara+N:iapara Cases "(é um tipo de breu, que é uma resina cheirosa.)" ;
+ita+N:ita Cases "carne" ;
+jaharãkʼa+N:jaharãkʼa Cases "arara azul" ;
+jũpʼap+N:jũpʼap Cases "camarão" ;
+kabâkap+N:kabâkap Cases "abelha mirim" ;
+kabykap+N:kabykap Cases "abelha uruçu" ;
+kajukap+N:kajukap Cases "abelha uruçu legítimo" ;
+koroap+N:koroap Cases "barata do mato" ;
+kotkorã+N:kotkorã Cases "cigarra grande" ;
+mãjỹp+N:mãjỹp Cases "cobra" ;
+mãnaka+N:mãnaka Cases "coração" ;
+mãpka+N:mãpka Cases "castanha" ;
+mãtʼap+N:mãtʼap Cases "canoa" ;
+morokõjã+N:morokõjã Cases "(esse inseto sai nos buraquinhos na terra e vai correndo.)" ;
+mỹjet+N:mỹjet Cases "anu branco" ;
+nãmĩ+N:nãmĩ Cases "brasa" ;
+nuwok+N:nuwok Cases "chama do fogo" ;
+parawa+N:parawa Cases "arara de peito amarelo" ;
+pypka+N:pypka Cases "cará roxo" ;
+tahanĩ+N:tahanĩ Cases "cera de abelha" ;
+tãnĩ+N:tãnĩ Cases "anta" ;
+tarowa+N:tarowa Cases "caracol da terra" ;
+torokĩjã+N:torokĩjã Cases "breu ou resina do jatobá" ;
+turuki+N:turuki Cases "beiju, que pode ser feito de milho ou de mandioca" ;
+tymỹ+N:tymỹ Cases "arco" ;
+ũmãbe+N:ũmãbe Cases "céu" ;
+uruʼap+N:uruʼap Cases "boca" ;
+waʼyp+N:waʼyp Cases "árvore" ;
+wytwỹrẽ+N:wytwỹrẽ Cases "beija-flor maior, também conhecido como sedinha" ;
+xapeko+N:xapeko Cases "aranha" ;
+xapekot+N:xapekot Cases "borboleta" ;
+xãwak+N:xãwak Cases "abelha, todo tipo de abelha" ;
+xere+N:xere Cases "water/água" ;
+xibe+N:xibe Cases "foot/pé" ;
+ximykã+N:ximykã Cases "café" ;
+xipaja+N:xipaja Cases "arara" ;
+xiroa+N:xiroa Cases "beija-flor" ;
+xoxotka+N:xoxotka Cases "cará branco" ;
+xukuʼẽkap+N:xukuʼẽkap Cases "bacuri" ;
+xuruaka+N:xuruaka Cases "barriga" ;
+xyra+N:xyra Cases "cesto grande" ;
+ybaj+N:ybaj Cases "fish/peixe" ;
+ypʼaj+N:ypʼaj Cases "fish/peixe" ;
+ʼâk+N:ʼâk Cases "older sister/" ;
 
 ! vim: set ft=xfst-lexc:
