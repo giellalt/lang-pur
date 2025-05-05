@@ -175,6 +175,10 @@ The comparative forms are:
 Numerals are classified under:
 Verb moods are:
 Verb personal forms are:
+* **+OcSg1** object conjugation first person singular on verb
+* **+OcSg2** object conjugation second person singular
+* **+OcSg3** object conjugation third person singular
+
 Other verb forms are
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
@@ -224,7 +228,11 @@ given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
-Person marking
+Verbal derivation
+
+Person marking possession
+
+Person marking Object Conjugation
 
 The word forms in Purubora language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
