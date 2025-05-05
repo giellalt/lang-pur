@@ -4,15 +4,14 @@
 
 LEXICON Cases
 +Sg+Nom:   POSSESSION_     ;
-! +Pl+Nom:i   #     ;
-! +Sg+Acc:at  #     ;
-! +Pl+Acc:iat #     ;
-! +Sg+Loc:as  #     ;
-! +Pl+Loc:ias #     ;
++Sg+Gen:%>a   POSSESSION_     ;
++Pl+Nom:%>pdo   POSSESSION_     ;
 !         #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
 
 LEXICON POSSESSION_
 @R.PN.SG1@+PxSg1:@R.PN.SG1@ # ;!this [R]equires
+@R.PN.SG2@+PxSg2:@R.PN.SG2@ # ;!this [R]equires
+@R.PN.SG3@+PxSg3:@R.PN.SG3@ # ;!this [R]equires
 @D.PN@ # ;! this [D]isallows
 
 ! vim: set ft=xfst-lexc:
