@@ -3,6 +3,26 @@
 !! Verbs in the Purubora language inflect for tense.
 
 LEXICON Verbs
-verb    Persons   ;
+keta+V:keta TAM_ "sleep/dormir" ;
+reka+V:reka TAM_ "lose/perder" ;
+ha+V:ha TAM_ "smile/sorrir" ;
+bopa+V:bopa TAM_ "/deitar" ;
+nik+V:nik TAM_ "sit/sentar" ;
+
+ʼo+V:ʼo  TAM_ "" ;
+ʼonaxe+V:ʼonaxe TAM_ "" ;
+ʼĩ+V:ʼĩ TAM_ "" ;
+adota+V:adota TAM_ "" ;
+amỹ+V:amỹ TAM_ "" ;
+amã+V:amã TAM_ "" ;
+anemã+V:anemã TAM_ "" ;
+apyta+V:apyta TAM_ "" ;
+apâ+V:apâ TAM_ "" ;
+ata+V:ata TAM_ "" ;
+axita+V:axita TAM_ "run away/fugir" ;
+baʼe+V:baʼe TAM_ "throw/atirar" ;
+bakepa+V:bakepa TAM_ "break/quebrar" ;
+by+V:by TAM_ "wait/esperar" ;
+
 
 ! vim: set ft=xfst-lexc:
