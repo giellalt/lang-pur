@@ -111,6 +111,26 @@ The Purubora language verbs inflect in persons.
 The Purubora morphophonological/twolc rules file !
 =================================== !
 
+MODIFIER LETTER APOSTROPHE U+02BC
+
+Literal quotes and angles must be escaped (cf morpheme boundaries below):
+
+* »
+* «
+* >
+* <
+
+Morpheme boundaries:
+* Derivational prefix
+* Derivational suffix
+* Inflectional prefix
+* Inflectional suffix
+* Word boundary for both lexicalised and dynamic compounds
+* (exceptional) soft hyphenation point
+* Compounding rules
+
+End of alphabet definitions
+
 * *primus%>s*
 * *primus00*
 
@@ -820,6 +840,7 @@ Unknowns are made of:
 * lower-case ASCII
 * upper-case ASCII
 * select extended latin symbols
+* Puruborá specific characters
 ASCII digits
 * select symbols
 * Combining diacritics as individual symbols,
