@@ -12,7 +12,7 @@ LEXICON POSSESSION_
 @R.PN.SG1@+PxSg1:@R.PN.SG1@ # ;!this [R]equires
 @R.PN.SG2@+PxSg2:@R.PN.SG2@ # ;!this [R]equires
 @R.PN.SG3@+PxSg3:@R.PN.SG3@ # ;!this [R]equires
-@D.PN@ # ;! this [D]isallows
+@D.PN@:@D.PN@ # ;! this [D]isallows
 
 ! vim: set ft=xfst-lexc:
 
