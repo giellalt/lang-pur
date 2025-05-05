@@ -107,6 +107,9 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! symbols in the lexicon files:
  {aä} {oö} {uü}
 
+%>
+%<
+
 !! And following triggers to control variation
  {front} {back}
 
