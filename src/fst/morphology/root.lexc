@@ -53,6 +53,10 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! Verb moods are:
  +Ind +Prs +Prt +Pot +Cond +Imprt
 !! Verb personal forms are:
+ +OcSg1 !!≈ * **@CODE@** object conjugation first person singular on verb
+ +OcSg2 !!≈ * **@CODE@** object conjugation second person singular
+ +OcSg3 !!≈ * **@CODE@** object conjugation third person singular
+
  +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
 !! Other verb forms are
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
@@ -99,6 +103,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! source and target part-of-speech.
  +V→N +V→V +V→A
  +Der/xxx
+ +Der/Caus 
 
 
 !! Morphophonology
@@ -141,7 +146,12 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  @U.Cap.Obl@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
  @U.Cap.Opt@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
-!! Person marking
+!! Verbal derivation
+@U.VDER.CAUS@
+@R.VDER.CAUS@
+@D.VDER@
+
+!! Person marking possession
 @U.PN.SG1@
 @U.PN.SG2@
 @U.PN.SG3@
@@ -156,13 +166,30 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 @R.PN.PL2@
 @R.PN.PL3@
 
-@R.PN@
+@D.PN@
+
+!! Person marking Object Conjugation
+@U.OC.SG1@
+@U.OC.SG2@
+@U.OC.SG3@
+@U.OC.PL1@
+@U.OC.PL2@
+@U.OC.PL3@
+
+@R.OC.SG1@
+@R.OC.SG2@
+@R.OC.SG3@
+@R.OC.PL1@
+@R.OC.PL2@
+@R.OC.PL3@
+
+@D.OC@
 
 LEXICON Root
 !! The word forms in Purubora language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
 ! Nouns       ; All nouns will have a	preceding choice between prefix	or not, 2025-04-13,rueter
- Verbs       ;
+! Verbs       ; All verbs will have a   preceding choice between prefix or not, 2025-05-05,rueter
  Adjectives  ;
  Pronouns    ;
  Numerals    ;
