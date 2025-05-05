@@ -1,0 +1,50 @@
+Config:
+  hfst:
+    Gen:   ../../src/generator-gt-norm.hfst
+    Morph: ../../src/analyser-gt-desc.hfst
+  xerox:
+    Gen:   ../../src/generator-gt-norm.xfst
+    Morph: ../../src/analyser-gt-desc.xfst
+    App: lookup
+
+Tests:
+  Verb - ha: # Verb
+#    - keta: dormir
+    keta+V+Inf: keta
+    keta+V+Caus+Inf: baketa
+    keta+V+Sg1: oketa
+    keta+V+Sg2: eketa
+    keta+V+Sg3: jaketa
+
+#- reka: perder
+
+    reka+V+Inf: reka
+    reka+V+Caus+Inf: bareka
+    reka+V+Ind+Prs+Sg1: oreka
+    reka+V+Ind+Prs+Sg2: ereka
+    reka+V+Ind+Prs+Sg3: jareka
+
+#- ha: sorrir
+
+    ha+V+Inf: ha
+    ha+V+Caus+Inf: baha
+    ha+V+Ind+Prs+Sg1: oha
+    ha+V+Ind+Prs+Sg2: eha
+    ha+V+Ind+Prs+Sg3: jaha
+
+#- bopa: deitar
+
+    bopa+V+Inf: bopa
+    bopa+V+Caus+Inf: babopa
+    bopa+V+Ind+Prs+Sg1: obopa
+    bopa+V+Ind+Prs+Sg2: ebopa
+    bopa+V+Ind+Prs+Sg3: jabopa
+
+#- nik: sentar
+
+    nik+V+Inf: nik
+    nik+V+Caus+Inf: banik
+    nik+V+Ind+Prs+Sg1: onik
+    nik+V+Ind+Prs+Sg2: enik
+    nik+V+Ind+Prs+Sg3: janik
+
