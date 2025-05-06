@@ -57,6 +57,10 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +OcSg2 !!≈ * **@CODE@** object conjugation second person singular
  +OcSg3 !!≈ * **@CODE@** object conjugation third person singular
 
+ +ScSg1 !!≈ * **@CODE@** subject conjugation first person singular on verb
+ +ScSg2 !!≈ * **@CODE@** subject conjugation second person singular
+ +ScSg3 !!≈ * **@CODE@** subject conjugation third person singular
+
  +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
 !! Other verb forms are
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
@@ -168,22 +172,27 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 @D.PN@
 
-!! Person marking Object Conjugation
-@U.OC.SG1@
-@U.OC.SG2@
-@U.OC.SG3@
-@U.OC.PL1@
-@U.OC.PL2@
-@U.OC.PL3@
+!! Transitivity interacts with conjugation
+@U.TV.YES@
+@R.TV.YES@
+@D.TV@
 
-@R.OC.SG1@
-@R.OC.SG2@
-@R.OC.SG3@
-@R.OC.PL1@
-@R.OC.PL2@
-@R.OC.PL3@
+!! Person marking Conjugation person
+@U.VC.SG1@
+@U.VC.SG2@
+@U.VC.SG3@
+@U.VC.PL1@
+@U.VC.PL2@
+@U.VC.PL3@
 
-@D.OC@
+@R.VC.SG1@
+@R.VC.SG2@
+@R.VC.SG3@
+@R.VC.PL1@
+@R.VC.PL2@
+@R.VC.PL3@
+
+@D.VC@
 
 LEXICON Root
 !! The word forms in Purubora language start from the lexeme roots of basic
