@@ -3,26 +3,26 @@
 !! Verbs in the Purubora language inflect for tense.
 
 LEXICON Verbs
-keta+V:keta TAM_ "sleep/dormir" ;
-reka+V:reka TAM_ "lose/perder" ;
-ha+V:ha TAM_ "smile/sorrir" ;
-bopa+V:bopa TAM_ "/deitar" ;
-nik+V:nik TAM_ "sit/sentar" ;
+keta+V:keta IV_TAM_ "sleep/dormir" ;
+reka+V:reka TV_TAM_ "lose/perder" ;
+ha+V:ha IV_TAM_ "smile/sorrir" ;
+bopa+V:bopa IV_TAM_ "/deitar" ;
+nik+V:nik IV_TAM_ "sit/sentar" ;
 
-ʼo+V:ʼo  TAM_ "" ;
-ʼonaxe+V:ʼonaxe TAM_ "" ;
-ʼĩ+V:ʼĩ TAM_ "" ;
-adota+V:adota TAM_ "" ;
-amỹ+V:amỹ TAM_ "" ;
-amã+V:amã TAM_ "" ;
-anemã+V:anemã TAM_ "" ;
-apyta+V:apyta TAM_ "" ;
-apâ+V:apâ TAM_ "" ;
-ata+V:ata TAM_ "" ;
-axita+V:axita TAM_ "run away/fugir" ;
-baʼe+V:baʼe TAM_ "throw/atirar" ;
-bakepa+V:bakepa TAM_ "break/quebrar" ;
-by+V:by TAM_ "wait/esperar" ;
+ʼo+V:ʼo  TV_TAM_ "" ;
+ʼonaxe+V:ʼonaxe IV_TAM_ "" ;
+ʼĩ+V:ʼĩ IV_TAM_ "dance/dansar" ;
+adota+V:adota IV_TAM_ "" ;
+amỹ+V:amỹ TV_TAM_ "" ;
+amã+V:amã IV_TAM_ "" ;
+anemã+V:anemã IV_TAM_ "" ;
+apyta+V:apyta TV_TAM_ "" ;
+apâ+V:apâ IV_TAM_ "" ;
+ata+V:ata TV_TAM_ "" ;
+axita+V:axita IV_TAM_ "run away/fugir" ;
+baʼe+V:baʼe TV_TAM_ "throw/atirar" ;
+bakepa+V:bakepa TV_TAM_ "break/quebrar" ;
+by+V:by TV_TAM_ "wait/esperar" ;
 
 
 ! vim: set ft=xfst-lexc:
