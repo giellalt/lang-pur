@@ -2,15 +2,28 @@
 !  ---------------
 !! The Purubora language verbs inflect in persons.
 
-LEXICON TAM_
-@R.VDER.CAUS@+Der/Caus:@R.VDER.CAUS@ Persons ;
-@D.VDER@  Persons ;
+!LEXICON TAM_
+! IV_TAM_ ;
+! TV_TAM_ ;
+
+LEXICON IV_TAM_
+@R.VDER.CAUS@@U.TV.YES@+TV+Der/Caus:@R.VDER.CAUS@@U.TV.YES@ Persons ;
+@D.VDER@+IV:@D.VDER@  Persons ;
+
+LEXICON TV_TAM_
+@R.VDER.CAUS@@U.TV.YES@+TV+Der/Caus:@R.VDER.CAUS@@U.TV.YES@ Persons ;
+@D.VDER@@U.TV.YES@+TV:@D.VDER@@U.TV.YES@  Persons ;
+
 
 LEXICON Persons
-@D.OC@+Inf:@D.OC@    #   ;
-@R.OC.SG1@+Ind+Prs+OcSg1:@R.OC.SG1@   #   ;
-@R.OC.SG2@+Ind+Prs+OcSg2:@R.OC.SG2@   #   ;
-@R.OC.SG3@+Ind+Prs+OcSg3:@R.OC.SG3@    #   ;
+@D.VC@+Inf:@D.VC@    #   ;
+@R.VC.SG1@@R.TV.YES@+Ind+Prs+OcSg1:@R.VC.SG1@@R.TV.YES@   #   ;
+@R.VC.SG2@@R.TV.YES@+Ind+Prs+OcSg2:@R.VC.SG2@@R.TV.YES@   #   ;
+@R.VC.SG3@@R.TV.YES@+Ind+Prs+OcSg3:@R.VC.SG3@@R.TV.YES@    #   ;
+
+@R.VC.SG1@@D.TV@+Ind+Prs+ScSg1:@R.VC.SG1@@D.TV@   #   ;
+@R.VC.SG2@@D.TV@+Ind+Prs+ScSg2:@R.VC.SG2@@D.TV@   #   ;
+@R.VC.SG3@@D.TV@+Ind+Prs+ScSg3:@R.VC.SG3@@D.TV@    #   ;
 
 
 ! vim: set ft=xfst-lexc:
