@@ -12,9 +12,9 @@ verbprefix-     Verbs   ;
      Nouns   ;!this one will not be tagged
 
 ! All verbs will have a preceding choice between prefix or not
-@U.OC.SG1@:@U.OC.SG1@o%< VERBS_DERIVATION ;!this one gets tagged afterwards
-@U.OC.SG2@:@U.OC.SG2@e%< VERBS_DERIVATION ;!this one gets tagged afterwards
-@U.OC.SG3@:@U.OC.SG3@ja%< VERBS_DERIVATION ;!this one gets tagged afterwards
+@U.VC.SG1@:@U.VC.SG1@o%< VERBS_DERIVATION ;!this one gets tagged afterwards
+@U.VC.SG2@:@U.VC.SG2@e%< VERBS_DERIVATION ;!this one gets tagged afterwards
+@U.VC.SG3@:@U.VC.SG3@ja%< VERBS_DERIVATION ;!this one gets tagged afterwards
      VERBS_DERIVATION   ;!this one will not be tagged
 
 LEXICON VERBS_DERIVATION
