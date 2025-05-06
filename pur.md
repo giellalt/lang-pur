@@ -179,6 +179,10 @@ Verb personal forms are:
 * **+OcSg2** object conjugation second person singular
 * **+OcSg3** object conjugation third person singular
 
+* **+ScSg1** subject conjugation first person singular on verb
+* **+ScSg2** subject conjugation second person singular
+* **+ScSg3** subject conjugation third person singular
+
 Other verb forms are
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
@@ -232,7 +236,9 @@ Verbal derivation
 
 Person marking possession
 
-Person marking Object Conjugation
+Transitivity interacts with conjugation
+
+Person marking Conjugation person
 
 The word forms in Purubora language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
