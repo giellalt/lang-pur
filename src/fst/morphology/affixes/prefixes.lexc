@@ -8,7 +8,8 @@ verbprefix-     Verbs   ;
 ! All nouns will have a preceding choice between prefix or not
 @U.PN.SG1@:@U.PN.SG1@o%< Nouns ;!this one gets tagged afterwards
 @U.PN.SG2@:@U.PN.SG2@e%< Nouns ;!this one gets tagged afterwards
-@U.PN.SG3@:@U.PN.SG3@a%< Nouns ;!this one gets tagged afterwards
+!@U.PN.SG3@:@U.PN.SG3@a%< Nouns ;!corrected 2025-05-30
+@U.PN.SG3@:@U.PN.SG3@já%< Nouns ;!this one gets tagged afterwards
      Nouns   ;!this one will not be tagged
 
 ! All verbs will have a preceding choice between prefix or not
