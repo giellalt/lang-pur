@@ -5,7 +5,7 @@
 LEXICON Cases
 +Sg+Nom:   POSSESSION_     ;
 +Sg+Gen:%>a   POSSESSION_     ;
-+Pl+Nom:%>pdo   POSSESSION_     ;
++Pl+Nom:%>do   POSSESSION_     ;
 !         #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
 
 LEXICON POSSESSION_
