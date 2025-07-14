@@ -5,11 +5,11 @@
 LEXICON Nouns
 !noun+N:noun  Cases  ;
 
-abap+N:abap Cases "avô" ;
+abap+N:abap Cases "grandfather/avô" ;
 ãjʼap+N:ãjʼap Cases "casquinho pequeno, canoa pequena" ;
-âka+N:âka Cases "casa" ;
-ãmãt+N:ãmãt Cases "chuva" ;
-ameko+N:ameko Cases "cachorro" ;
+âka+N:âka Cases "house/casa" ;
+ãmãt+N:ãmãt Cases "rain/chuva" ;
+ameko+N:ameko Cases "dog/cachorro" ;
 apa+N:apa Cases "father/pai" ;
 ãpka+N:ãpka Cases "castanha" ;
 arĩaxĩ+N:arĩaxĩ Cases "abelha preta miúda, azulada." ;
