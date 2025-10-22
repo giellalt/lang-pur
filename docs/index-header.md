@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-pur)](https://github.com/giellalt/lang-pur/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-pur)](https://github.com/giellalt/lang-pur/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-pur?label=CI)](https://builds.giellalt.org/pipelines/lang-pur/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/puru1264)
 
 This page documents the work on the **Purubora language model**. 
 
